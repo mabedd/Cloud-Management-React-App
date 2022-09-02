@@ -1,0 +1,7 @@
+export { default as Navbar } from './Navbar.jsx'
+export { default as Hero } from './Hero.jsx'
+export { default as About } from './About.jsx'
+export { default as Support } from './Support.jsx'
+export { default as AllInOne } from './AllInOne.jsx'
+export { default as Pricing } from './Pricing.jsx'
+export { default as Footer } from './Footer.jsx'
